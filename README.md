@@ -33,5 +33,5 @@ I'm working towards developing the skills to apply for a cyber security position
 
 <img align="left" alt="RodoggA's Github Stats" src="https://github-readme-stats-five-khaki.vercel.app/api?username=RodoggA&theme=prussian&show_icons=true&count_private=true"/>
 
-<img align="right" alt="RodoggA's Github Stats" src="https://github-readme-stats-five-khaki.vercel.app/api/top-langs/?username=rodoggA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />
+<img align="right" alt="RodoggA's Github Stats" src="https://github-readme-stats-five-khaki.vercel.app/api/top-langs/?username=RodoggA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />
 
