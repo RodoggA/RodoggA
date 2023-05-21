@@ -25,7 +25,7 @@
 
 Hi, my name is RodoggA and i've got a passion for technology, and I am always ready for a challenge and learning new skills and technology. During my free time, I enjoy tinkering with systems and applications.
 
-I'm a full time system administrator at an MSP providing L2 support to a range of clients across the globe.
+I'm a full time Systems Engineer at an MSP providing L3 support to a range of clients across the globe.
 
 I'm working towards developing the skills to apply for a cyber security position.
 
