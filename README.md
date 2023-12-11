@@ -24,7 +24,7 @@
 Hi, I'm Jarrod, also know as RodoggA. I'm a Systems Engineer with a strong background in providing high-level technical support and maintaining infrastructure for clients around the world. I'm passionate about ensuring that systems remain operational, efficient and secure. I'm also technology enthusiast spending a lot of my free time tinkering with applications, systems and cool little gizmo's.
 <br></br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=RodoggA&theme=onedark&margin-w=15&margin-h=15&column=7&v=2" alt="RodoggA" />
+<img src="https://github-profile-trophy.vercel.app/?username=jarrodlovas&theme=onedark&margin-w=15&margin-h=15&column=7&v=2" alt="RodoggA" />
 
 <br></br>
 <div id="tools" align=center>
